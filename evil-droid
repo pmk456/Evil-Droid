@@ -69,7 +69,7 @@ sleep 1
 # spinner for Metasploit Generator
 spinlong ()
 {
-    bar=" +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
+    bar=" ###########################################"
     barlength=${#bar}
     i=0
     while ((i < 100)); do
