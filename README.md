@@ -1,7 +1,7 @@
 # Evil-Droid
 This Is A Where You can backdoor apk or create a lsitener or make payloads
 ## Evil-Droid Framework . version 0.3 
-    Author: Patan Musthakheem [
+    Author: Patan Musthakheem
     
 
 ## Legal Disclamer:
